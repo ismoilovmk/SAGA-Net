@@ -2,7 +2,7 @@
 
 Official repository of our paper on video-based recognition of aggression among school children.
 
-> The paper is currently under review. The code, pretrained models, and the SAGA dataset will be released here after acceptance.
+> The paper is currently under review. The code, pretrained models, and the SAGA dataset will be released soon.
 
 ## Repository Structure
 
